@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HiddenWorld
+comment0.text=\r\n\ Stores\ information\ hidden\ from\ user\ regarding\ user\ influenced\ variables\ /\ integers.\r\n\ \r\n\ @author\ Karim\ Elsawi\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=HiddenWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ EmptyWorld.\r\n\ \r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Game3Button
+comment0.text=\r\n\ The\ class\ Game3Button\ will\ check\ if\ the\ game\ 3\ button\ has\ been\ pressed,\ and\ will\ switch\ the\ worlds\ to\ the\ review\ board,\ where\ the\ third\ saved\ game\ can\ be\ accessed.\r\n\ \r\n\ @author\ Jamie\ Lee\r\n\ @version\ 1.0\r\n\ @since\ 2022-1-14\r\n
+comment1.params=usernameIn
+comment1.target=Game3Button(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Game3Button.\ This\ constructor\ will\ take\ in\ the\ username\ of\ the\ user,\ then\ set\ the\ username\ based\ on\ what\ was\ provided.\r\n\ @param\ String\ usernameIn\ is\ the\ username\ of\ the\ user\ who\ is\ signed\ in\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ Act\ method\ is\ called\ constantly\ and\ will\ check\ to\ see\ whether\ or\ not\ the\ game\ 3\ button\ was\ pressed.\r\n\ If\ it\ was\ pressed,\ it\ will\ change\ to\ the\ GameReviewBoard\ world,\ where\ the\ third\ saved\ game\ can\ be\ reviewed.\r\n
+numComments=3

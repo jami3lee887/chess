@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameReviewBoard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GameReviewBoard\ here.\r\n\ \r\n\ @author\ Jamie\ Lee\ \r\n\ @version\ 1.0\r\n
+comment1.params=gameNumber\ usernameIn
+comment1.target=GameReviewBoard(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameReviewBoard.\ This\ constructor\ puts\ buttons,\ text,\ and\ tiles\ onto\ the\ screen.\ It\ will\ also\ put\ all\ chess\ pieces\ into\ a\ grid,\ and\ then\ put\ them\ \r\n\ onto\ the\ actual\ screen.\r\n\ \r\n\ @param\ gameNumber\ the\ gamenumber\ of\ the\ saved\ game\ -\ used\ to\ load\ the\ correct\ saved\ game\r\n\ @param\ usernameIn\ the\ username\ associated\ with\ the\ saved\ game\ -\ used\ to\ load\ the\ correct\ saved\ game\r\n\ \r\n
+comment2.params=moveNumber
+comment2.target=void\ updateBoard(int)
+comment2.text=\r\n\ This\ updateBoard\ method\ updates\ the\ board\ after\ taking\ the\ information\ from\ the\ movelist.\ Updates\ the\ board\ for\ both\ getting\ the\ next\ move\ or\ going\ back\ one\ move.\r\n\ \r\n\ @param\ moveNumber\ gets\ the\ index\ of\ where\ the\ user\ in\ the\ "series/list\ of\ moves"\ (essentialy\ which\ page\ of\ a\ book\ we\ are\ in)\r\n\ \r\n
+comment3.params=
+comment3.target=void\ nextMove()
+comment3.text=\r\n\ This\ nextMove\ method\ first\ checks\ to\ make\ sure\ that\ we\ have\ not\ reached\ the\ move\ limit.\ It\ will\ then\ reset\ the\ board\ before\ calling\ the\ updateBoard\ method.\ \r\n\ It\ also\ shifts\ the\ moveNumber\ up\ by\ one,\ which\ then\ calls\ the\ updateBoard\ method\ to\ iterate\ to\ one\ more\ move\ in\ the\ replay.\ \r\n\ \r\n
+comment4.params=
+comment4.target=void\ prevMove()
+comment4.text=\r\n\ This\ prevMove\ method\ first\ checks\ to\ make\ sure\ that\ we\ are\ at\ least\ at\ the\ 2nd\ move.\ It\ will\ then\ reset\ the\ board\ before\ calling\ the\ updateBoard\ method.\ \r\n\ It\ also\ shifts\ the\ moveNumber\ down\ by\ one,\ which\ then\ calls\ the\ updateBoard\ method\ to\ iterate\ to\ one\ less\ move\ in\ the\ replay.\ \r\n\ \r\n
+comment5.params=
+comment5.target=void\ resetBoard()
+comment5.text=\r\n\ This\ resetBoard\ method\ resets\ the\ board,\ before\ the\ updateBoard\ method\ iterates\ back\ to\ the\ position\ that\ the\ user\ has\ chosen.\r\n\ \r\n
+numComments=6

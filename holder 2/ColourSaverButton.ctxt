@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ColourSaverButton
+comment0.text=\r\n\ This\ button\ allows\ the\ user\ to\ select\ the\ RGB\ values\ of\ the\ tiles\ used\ in\ their\ chess\ game.\r\n\ \r\n\ @author\ Karim\ Elsawi\ \r\n\ @version\ 1.0\r\n
+comment1.params=pw
+comment1.target=ColourSaverButton(ProfileWorld)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ ColourSaverButton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

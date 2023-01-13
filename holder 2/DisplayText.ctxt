@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DisplayText
+comment0.text=\r\n\ This\ class\ allows\ us\ to\ put\ text\ onto\ the\ screen\r\n\ \r\n\ @author\ Michael\ Tuccillo\r\n\ @version\ v1\r\n
+comment1.params=text\ size\ colour
+comment1.target=void\ setText(java.lang.String,\ int,\ greenfoot.Color)
+comment1.text=\r\n\ This\ setText\ method\ will\ create\ a\ text\ image\ according\ to\ the\ given\ parameters\r\n\ \r\n\ @param\ text\ \ the\ text\ that\ will\ be\ printed\ to\ the\ screen\r\n\ @param\ size\ \ the\ size\ of\ the\ text\ that\ will\ be\ printed\ to\ the\ screen\r\n\ @param\ colour\ the\ colour\ of\ the\ text\ that\ will\ be\ printed\ to\ the\ screen\r\n
+numComments=2

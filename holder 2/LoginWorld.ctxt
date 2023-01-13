@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=LoginWorld
+comment0.text=\r\n\ This\ LoginWorld\ class\ is\ the\ log\ in\ screen\ to\ the\ program.\ It\ allows\ users\ to\ sign\ into\ an\ existing\ account,\ and\ it\ will\r\n\ deny\ entry\ into\ the\ program\ with\ an\ non\ existant\ username\ /\ password\r\n\ \r\n\ @author\ Jamie\ Lee\ /\ Karim\ Elsawi\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=LoginWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LoginWorld.\ This\ constructor\ puts\ all\ text\ needed\ on\ the\ screen,\ as\ well\ as\ instantiates\ the\ buttons\ and\ text\ boxes\ that\ will\r\n\ be\ put\ on\ the\ screen.\ It\ also\ pulls\ the\ accountList.txt\ which\ is\ the\ text\ file\ that\ stores\ all\ our\ log\ in\ usernames\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ checkInfo()
+comment2.text=\r\n\ This\ checkInfo\ method\ will\ check\ the\ information\ inputted\ by\ the\ user\ in\ the\ textbox.\ It\ will\ first\ check\ to\ see\ if\ the\ username\ exists,\ and\ then\ it\ will\ check\ to\ see\ if\ the\r\n\ password\ associated\ with\ that\ username\ is\ the\ password\ inputted.\ \r\n\ \r\n\ @return\ String\ nameEntered\ returns\ the\ valid\ string\r\n\ \r\n
+comment3.params=callingFrom
+comment3.target=void\ tabbing(java.lang.String)
+comment3.text=\r\n\ This\ tabbing\ method\ will\ call\ a\ function\ within\ the\ instances\ of\ the\ text\ boxes\ (where\ the\ user\ inputs\ their\ information),\ that\ switches\ which\ text\ box\ is\ focused.\r\n\ \r\n
+comment4.params=callingFrom
+comment4.target=void\ cancelTab(java.lang.String)
+numComments=5

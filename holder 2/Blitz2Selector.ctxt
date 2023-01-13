@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Blitz2Selector
+comment0.text=\r\n\ \ Selects\ the\ 5\ minute\ blitz\ gamemode\ for\ the\ chessboard\r\n\ \r\n\ @author\ Karim\ Elsawi\r\n\ @version\ 1.0\r\n
+comment1.params=usernameIn
+comment1.target=Blitz2Selector(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Blitz2Selector\ button.\ \r\n\ @param\ String\ usernameIn\ is\ the\ username\ of\ the\ user\ who\ is\ signed\ in\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ blitz2Selector\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

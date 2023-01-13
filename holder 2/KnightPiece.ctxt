@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=KnightPiece
+comment0.text=\r\n\ The\ class\ KnightPiece\ is\ an\ extension\ of\ ChessPiece\ and\ is\ responsible\ for\ creating\ the\ image\ and\ name\ of\ the\ Knight\ piece.\r\n\ It\ also\ detects\ when\ a\ knight\ has\ been\ pressed,\ or\ when\ a\ pawn\ promotes\ to\ a\ knight.\r\n\ \r\n\ @author\ Michael\ Tuccillo\r\n\ @version\ 1.0\r\n\ @since\ 2022-1-14\r\n
+comment1.params=imageIn\ pieceName
+comment1.target=KnightPiece(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ KnightPiece.\ This\ constructor\ will\ take\ in\ the\ name\ and\ image\ of\ the\ knight,\ then\ set\ the\ image\ and\ name\ based\ on\ what\ was\ provided.\r\n\ @param\ String\ imageIn\ is\ the\ name\ of\ image\ file\r\n\ @param\ String\ pieceName\ is\ the\ name\ of\ the\ piece\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ Act\ method\ is\ called\ constantly\ and\ will\ check\ to\ see\ whether\ or\ not\ the\ Knight\ Piece\ was\ pressed.\r\n\ If\ it\ was\ pressed,\ it\ will\ check\ to\ see\ if\ it\ was\ chosen\ as\ a\ promotion,\ then\ it\ will\ set\ the\ image\ and\ name\ to\ the\ corrosponding\ turn.\r\n\ In\ addition,\ when\ pressed\ it\ will\ call\ on\ a\ method\ that\ gets\ the\ legal\ moves\ for\ Knights.\r\n
+numComments=3

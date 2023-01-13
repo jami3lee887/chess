@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HighlightBlock
+comment0.text=\r\n\ This\ class\ deals\ with\ the\ highlighting\ of\ boxes\ that\ the\ user\ can\ move\ \r\n\ their\ piece\ to.\ This\ applies\ to\ both\ the\ peices\ that\ the\ clicked\ piece\ \r\n\ can\ take,\ but\ as\ well\ as\ the\ piece\ that\ the\ user\ is\ currently\ selecting.\r\n\ \r\n\ @author\ Michael\ Tuccillo\r\n\ @version\ v1\r\n
+comment1.params=pieceIn
+comment1.target=HighlightBlock(ChessPiece)
+comment1.text=\r\n\ This\ constructor\ creates\ highlighted\ blocks\ around\ the\ piece\ that\ the\ user\ selects\r\n\ \r\n\ @param\ clickedPiece\ the\ piece\ selected\ by\ the\ user\r\n
+comment2.params=
+comment2.target=int\ getRow()
+comment2.text=\r\n\ This\ method\ gets\ the\ row\ of\ the\ block\ clicked\r\n\ @return\ integer\ The\ row\ of\ the\ highlighted\ block\r\n
+comment3.params=
+comment3.target=int\ getCol()
+comment3.text=\r\n\ This\ method\ gets\ the\ column\ of\ the\ block\ clicked\r\n\ @return\ integer\ The\ column\ of\ the\ highlighted\ block\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ HighlightBlock\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\ It\ will\ see\ \r\n\ which\ block\ has\ been\ clicked\ then\ it\ will\ remove\ highlights.\r\n
+numComments=5

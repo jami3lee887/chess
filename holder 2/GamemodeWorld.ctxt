@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GamemodeWorld
+comment0.text=\r\n\ The\ GamemodeWorld\ class\ is\ the\ screen\ in\ the\ program\ that\ allows\ users\ to\ select\ their\ gamemode\ of\ preference.\r\n\ \r\n\ @author\ Karim\ Elsawi\ \r\n\ @version\ 1.0\r\n
+comment1.params=userNameIn
+comment1.target=GamemodeWorld(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GamemodeWorld.\ This\ constructor\ puts\ all\ text\ needed\ on\ the\ screen,\ as\ well\ as\ instantiates\ the\ buttons\ that\ will\ be\ put\ on\ the\ screen.\ \r\n\ \r\n\ @param\ userNameIn\ this\ string\ is\ used\ for\ linking\ the\ associated\ account\ username\ with\ their\ game\ /\ profile.\r\n\ \r\n
+numComments=2
