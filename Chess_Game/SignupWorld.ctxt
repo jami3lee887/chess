@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SignupWorld
+comment0.text=\r\n\ The\ SignupWorld\ class\ allows\ for\ users\ to\ create\ a\ new\ account,\ if\ they\ do\ not\ already\ have\ one.\ After\ a\ valid\ account\ is\ created,\ it\ will\ then\ automatically\ log\ them\ in.\r\n\ \r\n\ @author\ Jamie\ Lee\ /\ Karim\ Elsawi\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SignupWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SignupWorld.\ This\ constructor\ puts\ all\ text\ needed\ on\ the\ screen,\ as\ well\ as\ instantiates\ the\ buttons\ and\ text\ boxes\ that\ will\r\n\ be\ put\ on\ the\ screen.\ \r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ writeInfo()
+comment2.text=\r\n\ This\ writeInfo\ method\ writes\ the\ user's\ desired\ username\ and\ password\ to\ a\ file,\ which\ saves\ it.\ It\ however\ first\ checks\ to\ see\ if\ either\ the\ user\ hasn't\ inputted\ an\ empty\ \r\n\ password\ or\ username,\ but\ as\ well\ as\ if\ the\ username\ isn't\ already\ taken\ \r\n\ \r\n\ @return\ either\ a\ blank\ string\ or\ the\ valid\ username\ is\ entered\ depending\ on\ if\ the\ username\ is\ valid.\r\n
+comment3.params=callingFrom
+comment3.target=void\ tabbing(java.lang.String)
+comment3.text=\r\n\ This\ tabbing\ method\ will\ call\ a\ function\ within\ the\ instances\ of\ the\ text\ boxes\ (where\ the\ user\ inputs\ their\ information),\ that\ switches\ which\ text\ box\ is\ focused.\r\n\ \r\n
+comment4.params=callingFrom
+comment4.target=void\ cancelTab(java.lang.String)
+numComments=5

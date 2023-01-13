@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment0.text=\r\n\ The\ StartScreen\ class\ is\ the\ start\ screen\ to\ the\ program.\ It\ allows\ users\ see\ an\ interface\ that\ will\ provide\ them\ with\ the\ options\ to\ either\ a)sign\ up\ or\ b)log\ in.\ \r\n\ @author\ Karim\ Elsawi\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=StartScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UserInterface.\r\n\ \r\n
+numComments=2

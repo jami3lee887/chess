@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TileSetter
+comment0.text=\r\n\ The\ tile\ TileSetter\ is\ a\ class\ that\ creates\ the\ 8x8\ tiles\ of\ a\ chess\ board\r\n\ \r\n\ @author\ Karim\ Elsawi\r\n\ @version\ 1.0\r\n
+comment1.params=colourIn
+comment1.target=greenfoot.GreenfootImage\ setTiles(greenfoot.Color)
+comment1.text=\r\n\ This\ method\ creates\ and\ places\ the\ small\ 100*100\ squares\ on\ the\ 800*800\r\n\ grid\r\n
+numComments=2

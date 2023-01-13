@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Textbox
+comment0.text=\r\n\ This\ class\ is\ in\ charge\ of\ creating\ text\ boxes\ in\ order\ for\ us\ to\ input\r\n\ data\ into\ the\ program\r\n\ @author\ Jamie\ Lee/Karim\ Elsawi\r\n\ @version\ 1.0\r\n
+comment1.params=type
+comment1.target=Textbox(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ textbox.\ \r\n\ @param\ type\ \ This\ is\ where\ I\ am\ calling\ the\ function\ from.\ This\ lets\r\n\ the\ user\ tab\ effectively\r\n
+comment2.params=
+comment2.target=void\ setImage()
+comment2.text=\r\n\ This\ method\ sets\ the\ image,\ essentially\ putting\ the\ letters\ the\r\n\ user\ inputs,\ onto\ the\ screen\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ This\ act\ method\ runs\ as\ a\ constant\ loop,\ used\ as\ a\ timer,\ as\ well\ as\r\n\ for\ checking\ if\ the\ user\ inputs\ /\ submits\ text\r\n
+comment4.params=
+comment4.target=java.lang.String\ getValue()
+comment4.text=\r\n\ This\ method\ gets\ the\ value\ of\ the\ text\r\n\ @return\ text\ returns\ the\ text\ the\ user\ has\ inputted\r\n
+comment5.params=
+comment5.target=void\ focus()
+comment5.text=\r\n\ This\ method\ focuses\ the\ text\ to\ this\ instance\ of\ the\ class\ when\ called\r\n\ on\r\n\ \r\n
+comment6.params=
+comment6.target=void\ cancelBlink()
+comment6.text=\r\n\ This\ method\ cancelBlink\ function\ cancels\ the\ blink\ of\ the\ other\ text\ box\r\n\ \r\n
+numComments=7

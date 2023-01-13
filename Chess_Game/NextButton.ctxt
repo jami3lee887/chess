@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=NextButton
+comment0.text=\r\n\ The\ class\ NextButton\ will\ check\ if\ the\ next\ button\ has\ been\ pressed,\ and\ will\ call\ on\ the\ nextMove\ method,\ where\ the\ next\ move\ will\ be\ played.\r\n\ \r\n\ @author\ Jamie\ Lee\r\n\ @version\ 1.0\r\n\ @since\ 2022-1-14\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ Act\ method\ is\ called\ constantly\ and\ will\ check\ to\ see\ whether\ or\ not\ the\ nextButton\ was\ pressed.\r\n\ If\ it\ was\ pressed,\ it\ will\ call\ on\ the\ nextMove\ method\ in\ the\ GameReviewBoard\ world.\r\n
+numComments=2

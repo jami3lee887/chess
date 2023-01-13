@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SignupButton
+comment0.text=\r\n\ The\ class\ SignupButton\ will\ check\ if\ the\ sign\ up\ button\ has\ been\ pressed,\ and\ will\ switch\ the\ world\ to\ the\ sign\ up\ world,\ where\ people\ can\ create\ accounts\r\n\ \r\n\ @author\ Karim\ Elsawi\r\n\ @version\ 1.0\r\n\ @since\ 2022-1-14\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ Act\ method\ is\ called\ constantly\ and\ will\ check\ to\ see\ whether\ or\ not\ the\ sign\ up\ button\ was\ pressed.\r\n\ If\ it\ was\ pressed,\ it\ will\ change\ to\ the\ sign\ up\ world,\ where\ the\ user\ can\ sign\ in.\r\n
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SaveToReplay1
+comment0.text=\r\n\ The\ class\ SaveToReplay1\ will\ check\ if\ the\ SaveToReplay1\ button\ has\ been\ pressed,\ then\ call\ on\ methods\ that\ will\ save\ the\ game\ to\ a\ file.\r\n\ \r\n\ @author\ Michael\ Tuccillo\r\n\ @version\ 1.0\r\n\ @since\ 2022-1-14\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ Act\ method\ is\ called\ constantly\ and\ will\ check\ to\ see\ whether\ or\ not\ the\ SaveToReplay1\ button\ was\ pressed.\r\n\ If\ it\ was\ pressed,\ it\ will\ call\ on\ methods\ to\ save\ the\ game\ to\ the\ user\ profile.\r\n
+numComments=2

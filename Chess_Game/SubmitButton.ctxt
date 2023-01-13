@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SubmitButton
+comment0.text=\r\n\ The\ class\ SubmitButton\ will\ check\ if\ the\ submit\ button\ has\ been\ pressed,\ and\ will\ switch\ the\ world\ to\ either\ the\ sign\ up\ world,\ where\ people\ can\ create\ accounts,\r\n\ or\ the\ login\ world,\ where\ the\ user\ can\ log\ into\ their\ existing\ account\r\n\ \r\n\ @author\ Jamie\ Lee\ /\ Karim\ Elsawi\r\n\ @version\ 1.0\r\n\ @since\ 2022-1-14\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ act\ as\ loop\ that\ constantly\ checks\ if\ the\ user\ has\ clicked\ the\ submit\ button\ after\ they\ have\ inputted\ their\ desired\ username\ and\ password\r\n
+numComments=2

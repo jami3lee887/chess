@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ProfileButton
+comment0.text=\r\n\ The\ class\ ProfileButton\ will\ check\ if\ the\ profile\ button\ has\ been\ pressed,\ and\ will\ switch\ the\ worlds\ to\ the\ profile\ board,\ \r\n\ where\ the\ user\ can\ access\ their\ profile\ and\ previous\ games\r\n\ \r\n\ @author\ Jamie\ Lee\r\n\ @version\ 1.0\r\n\ @since\ 2022-1-14\r\n
+comment1.params=usernameIn
+comment1.target=ProfileButton(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ProfileButton.\ This\ constructor\ will\ take\ in\ the\ username\ of\ the\ user,\ then\ set\ the\ username\ based\ on\ what\ was\ provided.\r\n\ @param\ String\ usernameIn\ is\ the\ username\ of\ the\ user\ who\ is\ signed\ in\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ Act\ method\ is\ called\ constantly\ and\ will\ check\ to\ see\ whether\ or\ not\ the\ profile\ button\ was\ pressed.\r\n\ If\ it\ was\ pressed,\ it\ will\ change\ to\ the\ profile\ world,\ where\ the\ user\ can\ see\ previous\ games.\r\n
+numComments=3

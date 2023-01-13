@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ProfileWorld
+comment0.text=\r\n\ The\ ProfileWorld\ is\ the\ class\ where\ the\ user\ can\ see\ their\ 3\ saved\ games,\ as\ well\ as\ change\ the\ colour\ of\ chessboard\ tiles.\r\n\ \r\n\ @author\ Jamie\ Lee\ /\ Karim\ Elsawi\r\n\ @version\ 1.0\r\n
+comment1.params=username
+comment1.target=ProfileWorld(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ProfileWorld.\ This\ constructor\ puts\ all\ text\ needed\ on\ the\ screen,\ as\ well\ as\ instantiates\ the\ buttons\ and\ text\ boxes\ that\ will\r\n\ be\ put\ on\ the\ screen.\r\n\ \r\n\ \r\n\ @param\ username\ this\ string\ is\ used\ for\ linking\ the\ associated\ gamenumber\ with\ the\ account\ username,\ as\ each\ user\ can\ store\ 3\ seperates\ games.\ \r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ whiteTileValue()
+comment2.text=\r\nThis\ method\ converts\ the\ string\ RGB\ values\ for\ the\ white\ tiles\ into\ integers\r\n
+comment3.params=
+comment3.target=java.lang.String\ blackTileValue()
+comment3.text=\r\nThis\ method\ converts\ the\ string\ RGB\ values\ for\ the\ black\ tiles\ into\ integers\r\n
+numComments=4
